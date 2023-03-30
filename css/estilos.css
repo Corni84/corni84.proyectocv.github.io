@@ -1,0 +1,80 @@
+.main-container {
+    display: flex;
+    width: 1335px;
+}
+
+figure img {
+    border-radius: 50%;   
+}
+
+.fotografía {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 18px;
+}
+
+aside {
+    width: 30%;
+    margin-right: 0.5%;
+    background-color: darkslategrey;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+aside h2 {
+    color: antiquewhite;
+    margin: 15px;
+}
+
+aside section h2 {
+    border-bottom: 2px solid white;
+}
+
+aside p {
+    margin: 7px;
+}
+
+main {
+    background-color: gainsboro;
+    color: darkslategray;
+    font-size: 20px;
+}
+
+main h2 {
+    color: black;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+main section h2 {
+    border-bottom: 2px solid black;
+    margin: 15px;
+}
+
+main h3 {
+    margin: 15px;
+    font-size: 22px;
+}
+
+main section span {
+    text-align: center;
+    margin: 80px;
+    color: darkslategrey;
+}
+
+main ul li {
+    margin-right: 15px;
+}
